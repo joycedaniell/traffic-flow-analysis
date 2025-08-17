@@ -63,16 +63,12 @@ traffic-flow-analysis/
 - **Annotated Video**: bounding boxes, IDs, and lane counts overlayed (`annotated_output.mp4`)  
 - **CSV Log**: per-vehicle log with ID, lane, frame, and timestamp (`vehicle_counts.csv`)  
 
-**Sample Frame (from annotated video):**  
-![Sample Frame](examples/frame_sample.png)
-
-**First Rows of CSV:**  
-![CSV Head](examples/csv_head.png)  
+ 
 
 ---
 
 ## 🎥 Demo Video  
-👉 [Demo Link](demo/demo.mp4) *(or upload to Google Drive / YouTube and paste the link here)*  
+👉 [Demo Link](demo/demo.mp4)  
 
 ---
 
